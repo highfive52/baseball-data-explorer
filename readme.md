@@ -25,6 +25,16 @@ This UI consumes the Baseball Data API:
 
 - https://github.com/highfive52/baseball-data-api
 
+## Screenshots
+
+### People Search
+
+![People Search tab](images/baseball_api_people_search.jpg)
+
+### Top 20 Batting Leaders
+
+![Top 20 Batting Leaders tab](images/baseball_api_top_20_batting_leaders.jpg)
+
 ## Local Setup
 
 Install dependencies:
