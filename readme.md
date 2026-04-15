@@ -35,6 +35,12 @@ This UI consumes the Baseball Data API:
 
 ![Top 20 Batting Leaders tab](images/baseball_api_top_20_batting_leaders.jpg)
 
+## Live Demo
+
+Try the app live:
+
+[Baseball Data Explorer Live Demo](https://baseball-data-explorer-app-6hgszysmyracswcarvw3w6.streamlit.app)
+
 ## Local Setup
 
 Install dependencies:
